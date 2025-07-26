@@ -66,7 +66,7 @@ Basic library database system for managing books, users, and transactions.
 ## 📬 Connect with Me
 
 - 📧 Email: [merinvarghese1027@gmail.com](mailto:merinvarghese1027@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/merin-varghese](https://linkedin.com/in/merin-varghese)  
+- 🔗 LinkedIn: [linkedin.com/in/merin-varghese-2b59b3256/](https://linkedin.com/in/merin-varghese-2b59b3256/)  
 - 🧑‍💻 GitHub: [github.com/merin10](https://github.com/merin10)
 
 ---

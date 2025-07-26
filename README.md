@@ -41,9 +41,9 @@ Smart waste collection app with citizen reporting, admin dashboard, and worker t
 Real-time connected dashboards for patients and caregivers with voice commands & reminders.  
 **Tech Stack:** React.js, Firebase, Tailwind CSS
 
-### 🔷 Library Management System (Java)
+### 🔷 Library Management System
 Basic library database system for managing books, users, and transactions.  
-**Tech Stack:** Java, MySQL
+**Tech Stack:** Python, MySQL
 
 ---
 

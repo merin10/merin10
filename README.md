@@ -35,11 +35,11 @@
 
 ### 🔷 [ClearZone – Smart Waste Management System](https://github.com/merin10/ClearZone)
 Smart waste collection app with citizen reporting, admin dashboard, and worker tracking.  
-**Tech Stack:** React.js, Firebase, Python
+**Tech Stack:** React.js, Node.js, MongoDb
 
-### 🔷 CareEase – Voice-Assisted Caregiver Support
+### 🔷 CareEase – Assistive Care Platform for Persons with Disabilities
 Real-time connected dashboards for patients and caregivers with voice commands & reminders.  
-**Tech Stack:** React.js, Firebase, Tailwind CSS
+**Tech Stack:** React.js, Firebase
 
 ### 🔷 Library Management System
 Basic library database system for managing books, users, and transactions.  
